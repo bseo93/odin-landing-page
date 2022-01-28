@@ -1,1 +1,1 @@
-# odin-landing-page
+This is my second project for the Odin Project. Here I will be practicing HTML and CSS by creating a landing page. 

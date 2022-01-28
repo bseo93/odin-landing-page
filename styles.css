@@ -1,0 +1,33 @@
+.header{
+    background-color: #1f2937;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    
+    
+}
+
+ul{
+    list-style-type: none;
+    display:flex;
+    gap: 16px;
+    padding:0;
+}
+
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: inherit;
+
+}
+
+.right{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.left{
+    color: #f9faf8;
+    font-size: 24px;
+}
