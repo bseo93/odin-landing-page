@@ -83,3 +83,28 @@ body{
 .placeholder-text{
     align-self:center;
 }
+
+h2{
+    font-size:36px;
+    font-weight:800;
+    color:#1f2937;
+}
+
+.information-content{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.info-container{
+    display:flex;
+}
+
+.information-placeholder-a, .information-placeholder-b, .information-placeholder-c, .information-placeholder-d{
+    border: 3px solid #3882F6;
+    border-radius: 12px;
+    display:flex;
+    width:200px;
+    height:200px;
+}
