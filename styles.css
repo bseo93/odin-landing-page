@@ -134,3 +134,23 @@ h2{
 .author{
     align-self:flex-end;
 }
+
+/* CSS for sign up*/
+.sign-up{
+    background-color: #3882F6;
+    color:#e5e7eb;
+    margin:100px;
+    padding:20px 100px;
+    display:flex;
+    flex-direction:column;
+}
+
+.bottom-button{
+    font-size: 18px;
+    background-color: #3882F6;
+    border-radius: 12px; 
+    border-color:#e5e7eb;
+    color: #e5e7eb;
+    width: 150px;
+    height:50px;
+}
