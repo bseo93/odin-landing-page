@@ -142,7 +142,6 @@ h2{
     margin:100px;
     padding:20px 100px;
     display:flex;
-    flex-direction:column;
 }
 
 .bottom-button{
@@ -153,4 +152,13 @@ h2{
     color: #e5e7eb;
     width: 150px;
     height:50px;
+    align-self:center;
+}
+
+.footer{
+    display: flex;
+    background-color: #1f2937;
+    color:#e5e7eb;
+    justify-content:center;
+    align-items:center;
 }
