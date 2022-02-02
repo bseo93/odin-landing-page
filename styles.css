@@ -137,27 +137,44 @@ h2{
 
 /* CSS for sign up*/
 .sign-up{
-    background-color: #3882F6;
-    color:#e5e7eb;
     margin:100px;
-    padding:20px 100px;
-    display:flex;
+
 }
+
+.sign-up-box{
+    background-color:#3882F6;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    border-radius:10px;
+    padding:50px;
+}
+
+h3, .sign-up-text{
+    color:#e5e7eb;
+    padding:0px;
+    margin:0px;
+}
+
 
 .bottom-button{
     font-size: 18px;
     background-color: #3882F6;
     border-radius: 12px; 
-    border-color:#e5e7eb;
-    color: #e5e7eb;
+    border:2px solid #e5e7eb;
+    color:#e5e7eb;
     width: 150px;
     height:50px;
     align-self:center;
 }
 
+.footer-container{
+    background-color: #1f2937;
+}
+
 .footer{
     display: flex;
-    background-color: #1f2937;
+    margin:10px;
     color:#e5e7eb;
     justify-content:center;
     align-items:center;
